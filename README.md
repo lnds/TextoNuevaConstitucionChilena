@@ -5,7 +5,7 @@ La idea de este repo es tener el texto en formato de texto raw para que pueda se
 
 ## Version Markdown
 
-En formato Markdown en la carpeta [MarkDown](Markdown).
+En formato Markdown se encuentra en la carpeta [MarkDown](Markdown).
 
 Versión Markdown obtenida por Alejandro Barros desde este Notion: https://sigloasesino.notion.site/sigloasesino/Propuesta-de-Constituci-n-Pol-tica-de-la-Rep-blica-de-Chile-7f608bbaa95244408fd96f20bfd15981
 
