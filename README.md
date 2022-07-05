@@ -10,4 +10,10 @@ En formato Markdown se encuentra en la carpeta [MarkDown](Markdown).
 Versión Markdown obtenida por Alejandro Barros desde este Notion: https://sigloasesino.notion.site/sigloasesino/Propuesta-de-Constituci-n-Pol-tica-de-la-Rep-blica-de-Chile-7f608bbaa95244408fd96f20bfd15981
 
 
-Se reciben Pull Request.
+## Uso
+
+Si usan esta data para realizar visualizaciones, sitios web, o cualquiere remezcla, por favor agreguenla en este README como un Pull Request.
+
+Se reciben Pull Request con correcciones, se ha tratado de verificar de que el texto corresponda a la propuesta final.
+
+Este contenido es de dominio público
