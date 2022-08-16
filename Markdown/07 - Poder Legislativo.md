@@ -1,19 +1,19 @@
 # Capítulo VII: Poder Legislativo
 
-### Artículo 251
+### Artículo 251
 
 El Poder Legislativo se compone del Congreso de Diputadas y Diputados y de
 la Cámara de las Regiones.
 
 ## Congreso de Diputadas y Diputados
 
-### Artículo 252
+### Artículo 252
 
 1. El Congreso de Diputadas y Diputados es un órgano deliberativo, paritario y plurinacional que representa al pueblo. Concurre a la formación de las leyes y ejerce las demás facultades encomendadas por la Constitución.
 2. El Congreso está integrado por un número no inferior a ciento cincuenta y cinco integrantes electos en votación directa por distritos electorales. Una ley de acuerdo regional determinará el número de integrantes, los distritos electorales y la forma de su elección, atendiendo al criterio de proporcionalidad.
 3. Los escaños reservados en el Congreso de Diputadas y Diputados para los pueblos y naciones indígenas serán elegidos en un distrito único nacional. Su número se define en forma proporcional a la población indígena en relación con la población total del país. Se deben adicionar al número total de integrantes del Congreso. La ley regulará los requisitos, los procedimientos y la distribución de los escaños reservados.
 
-### Artículo 253
+### Artículo 253
 
 Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 
@@ -43,7 +43,7 @@ Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 
 ## Cámara de las Regiones
 
-### Artículo 254
+### Artículo 254
 
 1. La Cámara de las Regiones es un órgano deliberativo, paritario y plurinacional de representación regional encargado de concurrir a la formación de las leyes de acuerdo regional y de ejercer las demás facultades encomendadas por esta Constitución.
 2. Sus integrantes se denominan representantes regionales y se eligen en votación popular, conjuntamente con las autoridades comunales y regionales, tres años después de la elección presidencial y del Congreso.
@@ -52,7 +52,7 @@ Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 5. También podrán ser especialmente convocadas y convocados al efecto.
 La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni la institucionalidad que de él dependan.
 
-### Artículo 255
+### Artículo 255
 
 1. Es atribución exclusiva de la Cámara de las Regiones conocer de las acusaciones que entable el Congreso de Diputadas y Diputados.
 2. La Cámara de las Regiones resolverá como jurado y se limitará a declarar si la persona acusada es o no culpable.
@@ -62,17 +62,17 @@ La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni la ins
 
 ## Disposiciones comunes al Poder Legislativo
 
-### Artículo 256
+### Artículo 256
 
 1. El Congreso de Diputadas y Diputados y la Cámara de las Regiones no podrán entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio. Toman sus decisiones por la mayoría de sus integrantes presentes, salvo que esta Constitución disponga un quorum diferente.
 2. La ley establecerá sus reglas de organización, funcionamiento y tramitación, la que podrá ser complementada con los reglamentos de funcionamiento que estos órganos dicten.
 
-### Artículo 257
+### Artículo 257
 
 1. Para que una persona sea elegida diputada, diputado o representante regional debe ser ciudadana con derecho a sufragio, haber cumplido dieciocho años de edad al día de la elección y tener residencia en el territorio correspondiente durante un plazo no inferior a dos años en el caso de las diputadas o los diputados y de cuatro años en el caso de representantes regionales, contados hacia atrás desde el día de la elección.
 2. Se entenderá que tienen su residencia en el territorio correspondiente mientras ejerzan su cargo.
 
-### Artículo 258
+### Artículo 258
 
 1. No pueden postular al Congreso de Diputadas y Diputados ni a la Cámara de
 las Regiones:
@@ -92,19 +92,19 @@ las Regiones:
     - n) Las y los militares en servicio activo.
 2. Las inhabilidades establecidas en este artículo serán aplicables a quienes hayan tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección, excepto respecto de las personas mencionadas en la letra m), las que no deberán reunir esas condiciones al momento de inscribir su candidatura, y de las indicadas en las letras k), l) y n), respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección.
 
-### Artículo 259
+### Artículo 259
 
 1. Los cargos de diputada o diputado y de representante regional son incompatibles entre sí, con otros cargos de representación y con todo empleo, función, comisión o cargo de carácter público o privado.
 2. Por el solo hecho de su proclamación por el Tribunal Calificador de Elecciones, cesarán en el otro cargo, empleo, función o comisión incompatible que desempeñen.
 
-### Artículo 260
+### Artículo 260
 
 1. Diputadas, diputados y representantes regionales son inviolables por las opiniones que manifiesten y los votos que emitan en el desempeño de sus cargos.
 2. Desde el día de su elección o investidura, no se les puede acusar o privar de libertad, salvo en caso de delito flagrante, si la corte de apelaciones de la jurisdicción respectiva, en pleno, no declara previamente haber lugar a la formación de causa. En contra de las resoluciones que al respecto dicten estas cortes podrá apelarse ante la Corte Suprema.
 3. En caso de que se les detenga por delito flagrante, serán puestos inmediatamente a disposición de la corte de apelaciones respectiva, con la información sumaria correspondiente. La Corte procederá conforme a lo dispuesto en el inciso anterior.
 4. Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, se les suspenderá de su cargo y se sujetarán al juez competente.
 
-### Artículo 261
+### Artículo 261
 
 1. Cesará en el cargo la diputada, el diputado o representante regional:
     - a) Que se ausente del país por más de treinta días sin permiso de la corporación respectiva o, en receso de esta, de su Mesa Directiva.
@@ -115,7 +115,7 @@ las Regiones:
 2. Diputadas, diputados y representantes regionales podrán renunciar a sus cargos cuando les afecte una enfermedad grave, debidamente acreditada, que les impida desempeñarlos, y así lo califique el Tribunal Calificador de Elecciones.
 3. En caso de vacancia de una diputada o un diputado o de una o un representante regional, la ley determinará su forma de reemplazo. Su reemplazante debe reunir los requisitos establecidos por esta Constitución para ser elegido en el cargo respectivo y le alcanzarán las mismas inhabilidades e incompatibilidades. Se asegurará a todo evento la composición paritaria del órgano.
 
-### Artículo 262
+### Artículo 262
 
 Diputadas, diputados y representantes regionales se renuevan en su totalidad cada cuatro años y pueden ser reelegidos sucesivamente en el cargo hasta por un período. Para estos efectos se entenderá que han ejercido su cargo durante un período cuando han cumplido más de la mitad de su mandato.
 
@@ -135,7 +135,7 @@ El Congreso de Diputadas y Diputados y la Cámara de las Regiones se reunirán e
 
 ## La ley
 
-### Artículo 264
+### Artículo 264
 
 Solo en virtud de una ley se puede:
 
@@ -157,7 +157,7 @@ Solo en virtud de una ley se puede:
 - o) Regular aquellas materias que la Constitución señale como leyes de concurrencia presidencial necesaria.
 - p) Regular las demás materias que la Constitución exija que sean establecidas por una ley.
 
-### Artículo 265
+### Artículo 265
 
 1. La Presidenta o el Presidente de la República podrá solicitar autorización al Congreso de Diputadas y Diputados para dictar decretos con fuerza de ley durante un plazo no superior a un año.
 2. Esta delegación no podrá extenderse a derechos fundamentales, nacionalidad, ciudadanía, elecciones y plebiscitos, ni a la organización, atribuciones y régimen de los funcionarios del Sistema Nacional de Justicia, del Congreso de Diputadas y Diputados, de la Cámara de las Regiones, de la Corte Constitucional o de la Contraloría General de la República.
@@ -167,7 +167,7 @@ Solo en virtud de una ley se puede:
 6. Los decretos con fuerza de ley estarán sometidos, en cuanto a su publicación, vigencia y efectos, a las mismas normas que rigen para la ley.
 7. La ley delegatoria de potestades que correspondan a leyes de acuerdo regional es ley de acuerdo regional.
 
-### Artículo 266
+### Artículo 266
 
 Son leyes de concurrencia presidencial necesaria:
 
@@ -178,7 +178,7 @@ Son leyes de concurrencia presidencial necesaria:
 - e) Las que contraten o autoricen a contratar empréstitos o celebrar cualquier otra clase de operaciones que puedan comprometer la responsabilidad patrimonial del Estado, de los órganos autónomos y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del fisco o de los organismos o entidades referidos sin perjuicio de lo dispuesto en la letra c) del artículo 264.
 - f) Regular las capacidades de la defensa nacional, permitir la entrada de tropas extranjeras al territorio de la república y autorizar la salida de tropas nacionales fuera de él.
 
-### Artículo 267
+### Artículo 267
 
 1. Las leyes de concurrencia presidencial necesaria pueden tener su origen en un mensaje o en una moción.
 2. La moción deberá ser patrocinada por no menos de un cuarto y no más de un tercio de las diputadas y los diputados o, en su caso, de los representantes regionales en ejercicio, y deberá declarar que se trata de un proyecto de ley de concurrencia necesaria de la Presidencia.
@@ -186,7 +186,7 @@ Son leyes de concurrencia presidencial necesaria:
 4. Estas leyes solo podrán ser aprobadas si la Presidenta o el Presidente de la República entrega su patrocinio durante la tramitación del proyecto. Podrá patrocinarlo en cualquier momento hasta transcurridos quince días desde que haya sido despachado para su votación en general por la comisión respectiva, y en todo caso, antes de esta. Transcurrido ese plazo sin el patrocinio correspondiente, el proyecto se entenderá desechado y no se podrá insistir en su tramitación.
 5. Quien ejerza la Presidencia de la República siempre podrá retirar su patrocinio. En dicho caso, la tramitación del proyecto no podrá continuar.
 
-### Artículo 268
+### Artículo 268
 
 1. Solo son leyes de acuerdo regional:
     - a) Las que reformen la Constitución.
@@ -218,35 +218,35 @@ Corte Constitucional por acuerdo de mayoría.
 
 ## Procedimiento legislativo
 
-### Artículo 269
+### Artículo 269
 
 1. Las leyes pueden iniciarse por mensaje de la Presidenta o del Presidente de la República o por moción de no menos del diez por ciento ni más del quince por ciento de diputadas y diputados o representantes regionales. Adicionalmente, podrán tener su origen en iniciativa popular o iniciativa indígena de ley.
 2. Una o más asambleas regionales podrán presentar iniciativas a la Cámara de las Regiones en materias de interés regional. Si esta las patrocina, serán ingresadas como moción ordinaria en el Congreso.
 3. Todos los proyectos de ley, cualquiera sea la forma de su iniciativa, comenzarán su tramitación en el Congreso de Diputadas y Diputados.
 4. Todo proyecto puede ser objeto de adiciones o correcciones en los trámites que corresponda, tanto en el Congreso de Diputadas y Diputados como en la Cámara de las Regiones, si esta interviene conforme con lo establecido en esta Constitución. En ningún caso se admitirán las que no tengan relación directa con las ideas matrices o fundamentales del proyecto.
 
-### Artículo 270
+### Artículo 270
 
 1. Las leyes deberán ser aprobadas, modificadas o derogadas por la mayoría de los miembros presentes en el Congreso de Diputadas y Diputados al momento de su votación.
 2. En caso de tratarse de una ley de acuerdo regional, la Presidencia del Congreso enviará el proyecto aprobado a la Cámara de las Regiones para continuar con su tramitación.
 3. Terminada la tramitación del proyecto en el Congreso de Diputadas y Diputados, será despachado a la Presidenta o al Presidente de la República para efectos de su promulgación o devolución.
 
-### Artículo 271
+### Artículo 271
 
 Las leyes referidas a la organización, el funcionamiento y los procedimientos del Poder Legislativo y de los Sistemas de Justicia; a los procesos electorales y plebiscitarios; a la regulación de los estados de excepción constitucional; a la regulación de las organizaciones políticas; y aquellas que regulen a la Contraloría General de la República, a la Defensoría del Pueblo, a la Defensoría de la Naturaleza, al Servicio Electoral, a la Corte Constitucional y al Banco Central deberán ser aprobadas por el voto favorable de la mayoría de los integrantes en ejercicio del Congreso de Diputadas y Diputados y de la Cámara de las Regiones.
 
-### Artículo 272
+### Artículo 272
 
 1. Recibido por la Cámara de las Regiones un proyecto de ley de acuerdo regional aprobado por el Congreso de Diputadas y Diputados, la Cámara de las Regiones se pronunciará, aprobándolo o rechazándolo. Si lo aprueba, el proyecto será enviado al Congreso para que lo despache a la Presidenta o al Presidente de la República para su promulgación como ley. Si lo rechaza, lo tramitará y propondrá al Congreso las enmiendas que considere pertinentes.
 2. Si el Congreso rechaza una o más de esas enmiendas u observaciones, se convocará a una comisión mixta que propondrá nuevas enmiendas para resolver la discrepancia. Estas enmiendas serán votadas por la Cámara y luego por el Congreso. Si todas ellas son aprobadas, el proyecto será despachado para su promulgación.
 3. La comisión mixta estará conformada por igual número de diputadas y diputados y de representantes regionales. La ley fijará el mecanismo para designar a los integrantes de la comisión y establecerá el plazo en que deberá informar. De no evacuar su informe dentro de plazo, se entenderá que la comisión mixta mantiene las observaciones originalmente formuladas por la Cámara y rechazadas por el Congreso y se aplicará lo dispuesto en el inciso anterior.
 
-### Artículo 273
+### Artículo 273
 
 1. En la sesión siguiente a su despacho por el Congreso de Diputadas y Diputados y con el voto favorable de la mayoría, la Cámara de las Regiones podrá requerir conocer de un proyecto de ley que no sea de acuerdo regional.
 2. La Cámara contará con sesenta días desde que recibe el proyecto para formularle enmiendas y remitirlas al Congreso. Este podrá aprobarlas o insistir en el proyecto original con el voto favorable de la mayoría. Si dentro del plazo señalado la Cámara no evacúa su informe, el proyecto quedará en condiciones de ser despachado por el Congreso.
 
-### Artículo 274
+### Artículo 274
 
 1. Si la Presidenta o el Presidente de la República aprueba el proyecto despachado por el Congreso de Diputadas y Diputados, dispondrá su promulgación como ley. En caso contrario, lo devolverá dentro de treinta días con las observaciones que estime pertinentes o comunicando su rechazo total al proyecto.
 2. En ningún caso se admitirán las observaciones que no tengan relación directa con las ideas matrices o fundamentales del proyecto, a menos que hubieran sido consideradas en el mensaje respectivo.
@@ -255,13 +255,13 @@ Las leyes referidas a la organización, el funcionamiento y los procedimientos 
 5. En caso de que la Presidenta o el Presidente de la República no devuelva el proyecto dentro de treinta días, contados desde la fecha de su remisión, se entenderá que lo aprueba y se promulgará como ley. La promulgación debe hacerse siempre dentro del plazo de diez días, contados desde que ella sea procedente. La publicación se hará dentro de los cinco días hábiles siguientes a la fecha en que quede totalmente tramitado el decreto promulgatorio.
 6. El proyecto que sea desechado en general por el Congreso de Diputadas y Diputados no podrá renovarse sino después de un año.
 
-### Artículo 275
+### Artículo 275
 
 1. La ley que regule el funcionamiento del Congreso de Diputadas y Diputados deberá establecer los mecanismos para determinar el orden en que se conocerán los proyectos de ley, debiendo distinguir entre urgencia simple, suma urgencia y discusión inmediata.
 2. La ley especificará los casos en que la urgencia será fijada por la Presidenta o el Presidente de la República y por el Congreso de Diputadas y Diputados. La ley especificará los casos y condiciones de la urgencia popular.
 3. Solo quien ejerza la Presidencia de la República contará con la facultad de determinar la discusión inmediata de un proyecto de ley.
 
-### Artículo 276
+### Artículo 276
 
 1. La Cámara de las Regiones conocerá de las propuestas de estatutos regionales aprobados por una asamblea regional, de creación de empresas regionales efectuadas por una o más asambleas regionales de conformidad con lo dispuesto en la Constitución y de delegación de potestades legislativas realizadas por estas.
 2. Recibida una propuesta, la Cámara podrá aprobar el proyecto o efectuar las enmiendas que estime necesarias. De aceptarse las enmiendas por la asamblea regional respectiva, el proyecto quedará en estado de ser despachado al Congreso de Diputadas y Diputados para su tramitación como ley de acuerdo regional. Para el conocimiento de un estatuto regional, el Congreso y la Cámara contarán con un plazo de seis meses.
@@ -269,7 +269,7 @@ Las leyes referidas a la organización, el funcionamiento y los procedimientos 
 4. La ley que delegue potestades señalará las materias precisas sobre las que recaerá la delegación y podrá establecer las limitaciones, restricciones y formalidades que se estimen convenientes.
 5. La Contraloría General de la República tomará razón de las leyes regionales dictadas de conformidad con este artículo, debiendo rechazarlas cuando ellas excedan o contravengan la autorización referida.
 
-### Artículo 277
+### Artículo 277
 
 1. El proyecto de Ley de Presupuestos deberá ser presentado por quien ejerza la Presidencia de la República a lo menos con tres meses de anterioridad a la fecha en que debe empezar a regir.
 2. Si el proyecto no fuera despachado dentro de los noventa días de presentado, regirá el proyecto inicialmente enviado por la Presidenta o el Presidente.
@@ -282,7 +282,7 @@ proporcionalmente todos los gastos, cualquiera que sea su naturaleza.
 8. En la tramitación de la Ley de Presupuestos, así como respecto de los presupuestos regionales y comunales, se deberá garantizar la participación
 popular.
 
-### Artículo 278
+### Artículo 278
 
 1. El Congreso de Diputadas y Diputados y la Cámara de las Regiones contarán con una Unidad Técnica dependiente administrativamente del Congreso.
 2. Su Secretaría Legislativa estará encargada de asesorar en los aspectos jurídicos de las leyes que tramiten. Podrá, asimismo, emitir informes sobre ámbitos de la legislación que hayan caído en desuso o que presenten problemas técnicos.
