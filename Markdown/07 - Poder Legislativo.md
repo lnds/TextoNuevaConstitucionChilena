@@ -48,9 +48,8 @@ Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 1. La Cámara de las Regiones es un órgano deliberativo, paritario y plurinacional de representación regional encargado de concurrir a la formación de las leyes de acuerdo regional y de ejercer las demás facultades encomendadas por esta Constitución.
 2. Sus integrantes se denominan representantes regionales y se eligen en votación popular, conjuntamente con las autoridades comunales y regionales, tres años después de la elección presidencial y del Congreso.
 3. La ley determinará el número de representantes regionales que se elegirán por región, el que deberá ser el mismo para cada región y en ningún caso inferior a tres, asegurando que la integración final del órgano respete el principio de paridad. Asimismo, la ley regulará la integración de los escaños reservados en la Cámara de las Regiones.
-4. La ley especificará sus derechos y obligaciones especiales, las que, en todo caso, deberán incluir la obligación de rendir cuenta periódicamente ante la asamblea regional que representa.
-5. También podrán ser especialmente convocadas y convocados al efecto.
-La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni la institucionalidad que de él dependan.
+4. La ley especificará sus derechos y obligaciones especiales, las que, en todo caso, deberán incluir la obligación de rendir cuenta periódicamente ante la asamblea regional que representa. También podrán ser especialmente convocadas y convocados al efecto.
+5. La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni la institucionalidad que de él dependan.
 
 ### Artículo 255
 
@@ -208,13 +207,7 @@ Son leyes de concurrencia presidencial necesaria:
     - p) Las que regulen las votaciones populares y escrutinios.
     - q) Las que regulen las organizaciones políticas.
     - r) Las demás que esta Constitución califique como de acuerdo regional.
-2. Si se generara un conflicto de competencia entre la Cámara de las Regiones
-y el Congreso de Diputadas y Diputados con relación a si una o más materias
-dispuestas en este artículo deben ser revisadas por la Cámara de las
-Regiones, esta aprobará su competencia por mayoría de sus integrantes y el
-Congreso lo ratificará por mayoría. En caso de que el Congreso rechace la
-revisión aprobada por la Cámara de las Regiones, esta podrá recurrir a la
-Corte Constitucional por acuerdo de mayoría.
+2. Si se generara un conflicto de competencia entre la Cámara de las Regiones y el Congreso de Diputadas y Diputados con relación a si una o más materias dispuestas en este artículo deben ser revisadas por la Cámara de las Regiones, esta aprobará su competencia por mayoría de sus integrantes y el Congreso lo ratificará por mayoría. En caso de que el Congreso rechace la revisión aprobada por la Cámara de las Regiones, esta podrá recurrir a la Corte Constitucional por acuerdo de mayoría.
 
 ## Procedimiento legislativo
 
@@ -277,10 +270,8 @@ Las leyes referidas a la organización, el funcionamiento y los procedimientos 
 4. Aprobado el proyecto por la comisión especial de presupuestos, será enviado al Congreso de Diputadas y Diputados para su tramitación como ley de acuerdo regional.
 5. La estimación del rendimiento de los recursos que consulta la Ley de Presupuestos y de los nuevos que establezca cualquiera otra iniciativa de ley corresponderá a quien ejerza la Presidencia de la República, previo informe de los organismos técnicos respectivos, sin perjuicio de las atribuciones de la Secretaría de Presupuestos del Congreso y de la Cámara.
 6. No se podrá aprobar ningún nuevo gasto con cargo al erario público sin que se indiquen, al mismo tiempo, las fuentes de recursos necesarios para atender dicho gasto. La Ley de Presupuestos no puede crear tributos ni beneficios tributarios.
-7. Si la fuente de recursos otorgada por el Congreso de Diputadas y Diputados fuera insuficiente para financiar cualquier nuevo gasto que se apruebe, quien ejerza la Presidencia de la República, al promulgar la ley, previo informe favorable del servicio o de la institución a través del cual se recaude el nuevo ingreso, refrendado por la Contraloría General de la República, deberá reducir
-proporcionalmente todos los gastos, cualquiera que sea su naturaleza.
-8. En la tramitación de la Ley de Presupuestos, así como respecto de los presupuestos regionales y comunales, se deberá garantizar la participación
-popular.
+7. Si la fuente de recursos otorgada por el Congreso de Diputadas y Diputados fuera insuficiente para financiar cualquier nuevo gasto que se apruebe, quien ejerza la Presidencia de la República, al promulgar la ley, previo informe favorable del servicio o de la institución a través del cual se recaude el nuevo ingreso, refrendado por la Contraloría General de la República, deberá reducir proporcionalmente todos los gastos, cualquiera que sea su naturaleza.
+8. En la tramitación de la Ley de Presupuestos, así como respecto de los presupuestos regionales y comunales, se deberá garantizar la participación popular.
 
 ### Artículo 278
 

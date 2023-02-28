@@ -1,4 +1,4 @@
-# Capitulo IV: Participación Democrática
+# Capítulo IV: Participación Democrática
 
 ### Artículo 151
 
