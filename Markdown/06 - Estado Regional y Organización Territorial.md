@@ -421,8 +421,7 @@ Las entidades territoriales tendrán las siguientes fuentes de ingresos:
 ### Artículo 249
 
 1. La Administración y las entidades territoriales deben contribuir a la corrección de las desigualdades que existan entre ellas.
-2. La ley establecerá fondos de compensación para las entidades territoriales
-con una menor capacidad fiscal. El órgano competente, sobre la base de criterios objetivos, sugerirá al legislador los recursos que deberán ser integrados a estos fondos.
+2. La ley establecerá fondos de compensación para las entidades territoriales con una menor capacidad fiscal. El órgano competente, sobre la base de criterios objetivos, sugerirá al legislador los recursos que deberán ser integrados a estos fondos.
 3. La ley establecerá un fondo de contingencia y estabilización macroeconómica para garantizar los recursos de las entidades territoriales ante fluctuaciones de ingresos ordinarios.
 4. En virtud de la solidaridad interterritorial, la Administración central deberá realizar transferencias directas incondicionales a las entidades territoriales que cuenten con ingresos fiscales inferiores a la mitad del promedio ponderado de estas.
 5. Las regiones y comunas autónomas que cuenten con ingresos por sobre el promedio ponderado de ingresos fiscales transferirán recursos a aquellas equivalentes con ingresos bajo el promedio. El órgano competente sugerirá una fórmula al legislador para realizar tales transferencias.

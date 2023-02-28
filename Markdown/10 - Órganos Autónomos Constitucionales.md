@@ -221,21 +221,21 @@ Quienes integren la Corte Constitucional son independientes de todo otro poder y
         
     - c) Conocer y resolver sobre la inconstitucionalidad de uno o más preceptos de estatutos regionales, de autonomías territoriales indígenas y de cualquier otra entidad territorial.
     - La cuestión podrá ser planteada por la Presidenta o el Presidente de la República o un tercio de quienes integren la Cámara de las Regiones.
-2. d) Conocer y resolver los reclamos en caso de que la Presidenta o el Presidente de la República no promulgue una ley cuando deba hacerlo o promulgue un texto diverso del que constitucionalmente corresponda. Igual atribución tendrá respecto de la promulgación de la normativa regional.
+    - d) Conocer y resolver los reclamos en caso de que la Presidenta o el Presidente de la República no promulgue una ley cuando deba hacerlo o promulgue un texto diverso del que constitucionalmente corresponda. Igual atribución tendrá respecto de la promulgación de la normativa regional.
     
     Estos podrán promoverse por cualquiera de los órganos del Poder Legislativo o por una cuarta parte de sus integrantes en ejercicio, dentro de los treinta días siguientes a la publicación del texto impugnado o dentro de los sesenta días siguientes a la fecha en que la Presidenta o el Presidente de la República debió efectuar la promulgación de la ley. Si la Corte acogiera el reclamo, promulgará en su sentencia la ley que no lo haya sido o rectificará la promulgación incorrecta.
     
-3. e) Conocer y resolver sobre la inconstitucionalidad de un decreto o resolución de la Presidenta o del Presidente de la República que la Contraloría General de la República haya representado por estimarlo inconstitucional, cuando sea requerido por quien ejerza la Presidencia de la República.
-4. f) Conocer y resolver sobre la constitucionalidad de los reglamentos y decretos de la Presidenta o del Presidente de la República, dictados en ejercicio de la potestad reglamentaria en aquellas materias que no son de ley.
+    - e) Conocer y resolver sobre la inconstitucionalidad de un decreto o resolución de la Presidenta o del Presidente de la República que la Contraloría General de la República haya representado por estimarlo inconstitucional, cuando sea requerido por quien ejerza la Presidencia de la República.
+    - f) Conocer y resolver sobre la constitucionalidad de los reglamentos y decretos de la Presidenta o del Presidente de la República, dictados en ejercicio de la potestad reglamentaria en aquellas materias que no son de ley.
     
     La Corte podrá conocer de la materia a requerimiento del Congreso de Diputadas y Diputados o de la Cámara de las Regiones, o un tercio de sus integrantes, dentro de los treinta días siguientes a la publicación o notificación del texto impugnado.
     
-5. g) Resolver los conflictos de competencia o de atribuciones que se susciten entre órganos del Estado, entre las entidades territoriales, o entre estas con cualquier otro órgano del Estado, a solicitud de cualquiera de los antes mencionados.
-- h) Resolver los conflictos de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia.
-- i) Resolver los conflictos de competencia entre el Congreso de Diputadas y Diputados y la Cámara de las Regiones, o entre estas y la Presidenta o el Presidente de la República.
-- j) Las demás previstas en esta Constitución.
-1. En el caso de los conflictos de competencia contemplados en las letras h) e i) podrán ser deducidas por cualquiera de las autoridades o tribunales en conflicto.
-2. En lo demás, el procedimiento, el quorum y la legitimación activa para el ejercicio de cada atribución se determinará por la ley.
+    - g) Resolver los conflictos de competencia o de atribuciones que se susciten entre órganos del Estado, entre las entidades territoriales, o entre estas con cualquier otro órgano del Estado, a solicitud de cualquiera de los antes mencionados.
+    - h) Resolver los conflictos de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia.
+    - i) Resolver los conflictos de competencia entre el Congreso de Diputadas y Diputados y la Cámara de las Regiones, o entre estas y la Presidenta o el Presidente de la República.
+    - j) Las demás previstas en esta Constitución.
+2. En el caso de los conflictos de competencia contemplados en las letras h) e i) podrán ser deducidas por cualquiera de las autoridades o tribunales en conflicto.
+3. En lo demás, el procedimiento, el quorum y la legitimación activa para el ejercicio de cada atribución se determinará por la ley.
 
 ### Artículo 382
 
